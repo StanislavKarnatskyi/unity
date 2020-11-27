@@ -81,6 +81,7 @@
     <Compile Include="Assets\Scripts\Player\PC_Movement_Controller.cs" />
     <Compile Include="Assets\Scripts\Player\Player_Controller.cs" />
     <Compile Include="Assets\Scripts\Player\ProjectileController.cs" />
+    <Compile Include="Assets\Scripts\Scrolling.cs" />
     <Compile Include="Assets\Scripts\ServiceManager.cs" />
     <Compile Include="Assets\Scripts\Sound.cs" />
     <Compile Include="Assets\Scripts\UI\BaseGameMenuController.cs" />
